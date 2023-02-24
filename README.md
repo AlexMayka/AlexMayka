@@ -1,3 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alex</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student and programmer from Russia 🇷🇺</h3>
+
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
