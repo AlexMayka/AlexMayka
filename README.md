@@ -16,6 +16,12 @@ Designing high-load systems, AI agents, IoT platforms, and developer tools
 [![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 
+<br>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Alex__Mayka-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Alex_Mayka)
+[![Gmail](https://img.shields.io/badge/Gmail-aleksey.mayka.w@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aleksey.mayka.w@gmail.com)
+[![Yandex](https://img.shields.io/badge/Yandex-alex.mayka20@yandex.ru-FF0000?style=flat-square&logo=maildotru&logoColor=white)](mailto:alex.mayka20@yandex.ru)
+
 </div>
 
 ---
