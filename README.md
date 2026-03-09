@@ -2,9 +2,9 @@
 
 # Hey, I'm Alex 👋
 
-**Head of Automation / Senior Backend Engineer**
+**Head of Automation / Senior Backend Engineer / Network Security Backend Developer**
 
-I design and build systems — from high-load APIs and IoT platforms to AI agents and enterprise automation
+I design and build systems — from high-load APIs and traffic filtering platforms to AI agents and enterprise automation
 
 <br>
 
@@ -27,7 +27,7 @@ I design and build systems — from high-load APIs and IoT platforms to AI agent
 
 Senior engineer with experience leading automation teams and building production systems end-to-end — from architecture design to deployment and monitoring. I focus on solving real business problems through technology: reducing manual work, increasing throughput, and building tools that teams actually use.
 
-Currently leading automation initiatives that span backend development, AI agent pipelines, data engineering, and IoT telemetry systems.
+Currently working across two domains: **enterprise automation** (AI agent pipelines, data engineering, IoT telemetry) and **network security** — backend development for L3/L7 traffic filtering systems, including service configuration, client monitoring, CAPTCHA generation, and traffic interception tooling with full TLS handshake.
 
 ---
 
@@ -37,6 +37,7 @@ Currently leading automation initiatives that span backend development, AI agent
 - **High-load backend services** — APIs handling 1000+ RPS with sub-50ms latency
 - **Automation platforms** — replacing manual workflows with end-to-end pipelines
 - **Data pipelines & integrations** — ETL, external APIs, enterprise system connectors
+- **Network security & traffic filtering** — L3/L7 filter backends, DPI, TLS interception, CAPTCHA systems
 - **IoT telemetry & real-time protocols** — custom binary protocols, sensor networks
 - **Developer tooling & SDK design** — libraries, frameworks, and CLI tools
 
@@ -51,6 +52,7 @@ Currently leading automation initiatives that span backend development, AI agent
 | 📦 | Implemented **chunked file uploads up to 5GB** with circuit breakers and auto-recovery |
 | 🚀 | Developed bot SDKs with **zero-allocation architecture** (29ns per message dispatch) |
 | 🤖 | Built **AI agent pipelines** with LangChain/LangGraph, RAG, and MCP integration |
+| 🛡️ | Built **L3/L7 traffic filtering backends** — configurator, client monitoring, CAPTCHA verification, and a Go utility for traffic interception with full TLS handshake |
 | 🏭 | Created automation systems processing **large-scale datasets** across multiple data sources |
 
 ---
@@ -79,6 +81,7 @@ Currently leading automation initiatives that span backend development, AI agent
 <tr><td><b>Mobile</b></td><td>Flutter · Dart</td></tr>
 <tr><td><b>RPA</b></td><td>PIX · Sherpa · Primo</td></tr>
 <tr><td><b>Bots</b></td><td>Aiogram · Gogram (own SDK) · go-max-sdk (own SDK)</td></tr>
+<tr><td><b>Network / Security</b></td><td>L3/L7 filtering · DPI · TLS interception · CAPTCHA systems</td></tr>
 <tr><td><b>Embedded</b></td><td>ESP-IDF · CMake · BLE · UART · WiFi</td></tr>
 <tr><td><b>Testing</b></td><td>k6 · wrk · Testify · pytest · unittest</td></tr>
 </table>
