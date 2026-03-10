@@ -26,7 +26,7 @@ My current work spans two domains: **enterprise automation** (AI pipelines, data
 
 ---
 
-<h3 align="center">🚀 What I Build</h3>
+### 🚀 What I Build
 
 | ⚡ **Backend & Platform** | 🤖 **Automation & AI** | 📡 **IoT & Embedded** |
 |:---:|:---:|:---:|
