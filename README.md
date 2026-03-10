@@ -30,34 +30,34 @@ My current work spans two domains: **enterprise automation** (AI pipelines, data
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
 <b>⚡ Backend & Platform</b>
 <br><br>
-• High-load REST APIs (<b>1000+ RPS</b>)<br>
-• Multi-tenant RBAC systems<br>
-• Developer SDKs & internal tooling<br>
-• Observability & deployment pipelines
+High-load REST APIs (<b>1000+ RPS</b>)<br>
+Multi-tenant RBAC systems<br>
+Developer SDKs & internal tooling<br>
+Observability & deployment pipelines
 <br><br>
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
 <b>🤖 Automation & AI</b>
 <br><br>
-• Document processing & analytics<br>
-• LLM pipelines, RAG, transcription<br>
-• ETL, API integrations, BI delivery<br>
-• Scraping & geocoding services
+Document processing & analytics<br>
+LLM pipelines, RAG, transcription<br>
+ETL, API integrations, BI delivery<br>
+Scraping & geocoding services
 <br><br>
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
 <b>📡 IoT & Embedded</b>
 <br><br>
-• ESP32 firmware & telemetry<br>
-• Binary protocols (TCP/UDP/BLE)<br>
-• Real-time sensor streaming<br>
-• Device management systems
+ESP32 firmware & telemetry<br>
+Binary protocols (TCP/UDP/BLE)<br>
+Real-time sensor streaming<br>
+Device management systems
 <br><br>
 </td>
 </tr>
