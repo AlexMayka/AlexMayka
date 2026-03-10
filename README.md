@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=go,py,c,dart,fastapi,django,postgres,mysql,mongodb,redis,docker,kubernetes,linux,nginx,git,github,githubactions,flutter,rabbitmq,grafana,prometheus&perline=11" />
+<img src="https://skillicons.dev/icons?i=go,py,c,dart,fastapi,django,postgres,mysql,mongodb,redis,docker,kubernetes,linux,nginx,git,github,githubactions,flutter,rabbitmq,grafana,prometheus,sqlite&perline=11" />
 
 </div>
 
