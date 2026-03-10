@@ -31,34 +31,34 @@ My current work spans two domains: **enterprise automation** (AI pipelines, data
 <table>
 <tr>
 <td width="33%" valign="top">
-
-#### ⚡ Backend & Platform
-
-- High-load REST APIs (**1000+ RPS**)
-- Multi-tenant RBAC systems
-- Developer SDKs & internal tooling
-- Observability & deployment pipelines
-
+<br>
+<b>⚡ Backend & Platform</b>
+<br><br>
+• High-load REST APIs (<b>1000+ RPS</b>)<br>
+• Multi-tenant RBAC systems<br>
+• Developer SDKs & internal tooling<br>
+• Observability & deployment pipelines
+<br><br>
 </td>
 <td width="33%" valign="top">
-
-#### 🤖 Automation & AI
-
-- Document processing & analytics
-- LLM pipelines, RAG, transcription
-- ETL, API integrations, BI delivery
-- Scraping & geocoding services
-
+<br>
+<b>🤖 Automation & AI</b>
+<br><br>
+• Document processing & analytics<br>
+• LLM pipelines, RAG, transcription<br>
+• ETL, API integrations, BI delivery<br>
+• Scraping & geocoding services
+<br><br>
 </td>
 <td width="33%" valign="top">
-
-#### 📡 IoT & Embedded
-
-- ESP32 firmware & telemetry
-- Binary protocols (TCP/UDP/BLE)
-- Real-time sensor streaming
-- Device management systems
-
+<br>
+<b>📡 IoT & Embedded</b>
+<br><br>
+• ESP32 firmware & telemetry<br>
+• Binary protocols (TCP/UDP/BLE)<br>
+• Real-time sensor streaming<br>
+• Device management systems
+<br><br>
 </td>
 </tr>
 </table>
@@ -113,62 +113,62 @@ My current work spans two domains: **enterprise automation** (AI pipelines, data
 <table>
 <tr>
 <td width="50%" valign="top">
-
-#### [🏭 automation-monorepo](https://github.com/AlexMayka/automation-monorepo)
-
-**Production automation platform** — 18+ services for analytics, document processing, AI pipelines, BI, and enterprise integrations. **~13M RUB/year** estimated savings, **~5 FTE** freed.
-
-`Go` `Python` `FastAPI` `Django` `PostgreSQL` `Docker`
-
+<br>
+<b>🏭 <a href="https://github.com/AlexMayka/automation-monorepo">automation-monorepo</a></b>
+<br><br>
+Production automation platform — 18+ services for analytics, document processing, AI pipelines, BI, and enterprise integrations. <b>~13M RUB/year</b> estimated savings, <b>~5 FTE</b> freed.
+<br><br>
+<code>Go</code> <code>Python</code> <code>FastAPI</code> <code>Django</code> <code>PostgreSQL</code> <code>Docker</code>
+<br><br>
 </td>
 <td width="50%" valign="top">
-
-#### [📦 go-storage](https://github.com/AlexMayka/go-storage)
-
-**Cloud file storage** — multi-tenant RBAC, chunked uploads up to **5GB**, MinIO S3 backend, circuit breakers, **95%+ test coverage**.
-
-`Go` `Gin` `PostgreSQL` `MinIO` `JWT` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [📡 kinetica-protocol](https://github.com/AlexMayka/kinetica-protocol) · [kinetica-platform](https://github.com/AlexMayka/kinetica-platform)
-
-**IoT motion capture** — binary protocol (**11 message types, CRC, fragmentation**) + ESP32 firmware + Go server for real-time sensor streaming over **TCP/UDP/UART/BLE**.
-
-`Go` `C` `ESP-IDF` `BLE` `WiFi`
-
-</td>
-<td width="50%" valign="top">
-
-#### [🚀 gogram](https://github.com/AlexMayka/gogram) · [go-max-sdk](https://github.com/AlexMayka/go-max-sdk)
-
-**Messenger Bot SDKs** — declarative routing, FSM, middleware, and keyboard builders. `go-max-sdk`: **29ns/op**, zero allocations, worker pool engine.
-
-`Go` `SDK design` `performance engineering`
-
+<br>
+<b>📦 <a href="https://github.com/AlexMayka/go-storage">go-storage</a></b>
+<br><br>
+Cloud file storage — multi-tenant RBAC, chunked uploads up to <b>5GB</b>, MinIO S3 backend, circuit breakers, <b>95%+ test coverage</b>.
+<br><br>
+<code>Go</code> <code>Gin</code> <code>PostgreSQL</code> <code>MinIO</code> <code>JWT</code> <code>Docker</code>
+<br><br>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-#### [⚡ merch-shop](https://github.com/AlexMayka/merch-shop) · [wallet-api](https://github.com/AlexMayka/wallet-api)
-
-**Load-tested REST APIs** — virtual currency store + concurrent-safe wallet. **1000 RPS** sustained, **<50ms p99.99**, atomic transactions, Swagger docs.
-
-`Go` `Gin` `PostgreSQL` `JWT` `k6` `wrk`
-
+<br>
+<b>📡 <a href="https://github.com/AlexMayka/kinetica-protocol">kinetica-protocol</a> · <a href="https://github.com/AlexMayka/kinetica-platform">kinetica-platform</a></b>
+<br><br>
+IoT motion capture — binary protocol (<b>11 message types, CRC, fragmentation</b>) + ESP32 firmware + Go server for real-time sensor streaming over <b>TCP/UDP/UART/BLE</b>.
+<br><br>
+<code>Go</code> <code>C</code> <code>ESP-IDF</code> <code>BLE</code> <code>WiFi</code>
+<br><br>
 </td>
 <td width="50%" valign="top">
-
-#### 🔐 Commercial Experience (NDA)
-
-**L3/L7 traffic filtering systems** — service configurator, client monitoring backend, CAPTCHA generation, and traffic interception utility with full TLS handshake.
-
-`Go` `Python` `FastAPI` `Redis` `TLS/SSL` `DPI`
-
+<br>
+<b>🚀 <a href="https://github.com/AlexMayka/gogram">gogram</a> · <a href="https://github.com/AlexMayka/go-max-sdk">go-max-sdk</a></b>
+<br><br>
+Messenger Bot SDKs — declarative routing, FSM, middleware, and keyboard builders. go-max-sdk: <b>29ns/op</b>, zero allocations, worker pool engine.
+<br><br>
+<code>Go</code> <code>SDK design</code> <code>performance engineering</code>
+<br><br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<br>
+<b>⚡ <a href="https://github.com/AlexMayka/merch-shop">merch-shop</a> · <a href="https://github.com/AlexMayka/wallet-api">wallet-api</a></b>
+<br><br>
+Load-tested REST APIs — virtual currency store + concurrent-safe wallet. <b>1000 RPS</b> sustained, <b>&lt;50ms p99.99</b>, atomic transactions, Swagger docs.
+<br><br>
+<code>Go</code> <code>Gin</code> <code>PostgreSQL</code> <code>JWT</code> <code>k6</code> <code>wrk</code>
+<br><br>
+</td>
+<td width="50%" valign="top">
+<br>
+<b>🔐 Commercial Experience (NDA)</b>
+<br><br>
+L3/L7 traffic filtering systems — service configurator, client monitoring backend, CAPTCHA generation, and traffic interception utility with full TLS handshake.
+<br><br>
+<code>Go</code> <code>Python</code> <code>FastAPI</code> <code>Redis</code> <code>TLS/SSL</code> <code>DPI</code>
+<br><br>
 </td>
 </tr>
 </table>
@@ -177,6 +177,17 @@ My current work spans two domains: **enterprise automation** (AI pipelines, data
 
 ### 🧪 Current Interests
 
-`Distributed systems` `Data engineering` `AI infrastructure` `LLM/agent pipelines` `IoT telemetry` `Protocol design` `High-performance Go` `Developer tooling`
+<div align="center">
+
+![](https://img.shields.io/badge/Distributed_Systems-667eea?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Data_Engineering-764ba2?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/AI_Infrastructure-5a67d8?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/LLM%2FAgent_Pipelines-8b5cf6?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/IoT_Telemetry-667eea?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Protocol_Design-764ba2?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/High--Performance_Go-5a67d8?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Developer_Tooling-8b5cf6?style=for-the-badge&logoColor=white)
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
