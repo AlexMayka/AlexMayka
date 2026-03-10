@@ -28,33 +28,40 @@ My current work spans two domains: **enterprise automation** (AI pipelines, data
 
 ### 🚀 What I Build
 
-**Backend & Platform Systems**
-- High-load REST APIs in Go (**1000+ RPS**, sub-50ms latency)
-- Multi-tenant systems with RBAC and chunked uploads up to **5GB**
-- Developer SDKs, internal tooling, and reusable platform components
-- Observability, centralized logging, monitoring, and deployment pipelines
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Automation & AI Pipelines**
-- Enterprise automation for analytics, reporting, document processing, and integrations
-- LLM-based workflows, transcription pipelines, and AI-assisted decision support
-- ETL/data pipelines, API integrations, scraping, geocoding, and BI delivery
+#### ⚡ Backend & Platform
 
-**IoT & Embedded**
-- ESP32 firmware and telemetry systems
-- Custom binary protocols over **TCP / UDP / UART / BLE**
-- Real-time sensor streaming and device management
+- High-load REST APIs (**1000+ RPS**)
+- Multi-tenant RBAC systems
+- Developer SDKs & internal tooling
+- Observability & deployment pipelines
 
----
+</td>
+<td width="33%" valign="top">
 
-### 🏗 Architecture Focus
+#### 🤖 Automation & AI
 
-- Clean Architecture and modular backend design
-- High-load and concurrency-safe services
-- Multi-tenant systems and RBAC
-- Fault-tolerant integrations and background jobs
-- Observability and centralized logging
-- Data pipelines and internal platform components
-- IoT telemetry and protocol design
+- Document processing & analytics
+- LLM pipelines, RAG, transcription
+- ETL, API integrations, BI delivery
+- Scraping & geocoding services
+
+</td>
+<td width="33%" valign="top">
+
+#### 📡 IoT & Embedded
+
+- ESP32 firmware & telemetry
+- Binary protocols (TCP/UDP/BLE)
+- Real-time sensor streaming
+- Device management systems
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -103,60 +110,73 @@ My current work spans two domains: **enterprise automation** (AI pipelines, data
 
 ### 🌟 Featured Projects
 
-#### [automation-monorepo](https://github.com/AlexMayka/automation-monorepo)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [🏭 automation-monorepo](https://github.com/AlexMayka/automation-monorepo)
+
 **Production automation platform** — 18+ services for analytics, document processing, AI pipelines, BI, and enterprise integrations. **~13M RUB/year** estimated savings, **~5 FTE** freed.
 
-`Go` `Python` `FastAPI` `Django` `PostgreSQL` `Docker` `GitHub Actions` `LLM/Whisper` `n8n`
+`Go` `Python` `FastAPI` `Django` `PostgreSQL` `Docker`
 
----
+</td>
+<td width="50%" valign="top">
 
-#### [go-storage](https://github.com/AlexMayka/go-storage)
+#### [📦 go-storage](https://github.com/AlexMayka/go-storage)
+
 **Cloud file storage** — multi-tenant RBAC, chunked uploads up to **5GB**, MinIO S3 backend, circuit breakers, **95%+ test coverage**.
 
 `Go` `Gin` `PostgreSQL` `MinIO` `JWT` `Docker`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-#### [kinetica-protocol](https://github.com/AlexMayka/kinetica-protocol) · [kinetica-platform](https://github.com/AlexMayka/kinetica-platform)
+#### [📡 kinetica-protocol](https://github.com/AlexMayka/kinetica-protocol) · [kinetica-platform](https://github.com/AlexMayka/kinetica-platform)
+
 **IoT motion capture** — binary protocol (**11 message types, CRC, fragmentation**) + ESP32 firmware + Go server for real-time sensor streaming over **TCP/UDP/UART/BLE**.
 
 `Go` `C` `ESP-IDF` `BLE` `WiFi`
 
----
+</td>
+<td width="50%" valign="top">
 
-#### [gogram](https://github.com/AlexMayka/gogram) · [go-max-sdk](https://github.com/AlexMayka/go-max-sdk)
+#### [🚀 gogram](https://github.com/AlexMayka/gogram) · [go-max-sdk](https://github.com/AlexMayka/go-max-sdk)
+
 **Messenger Bot SDKs** — declarative routing, FSM, middleware, and keyboard builders. `go-max-sdk`: **29ns/op**, zero allocations, worker pool engine.
 
 `Go` `SDK design` `performance engineering`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-#### [merch-shop](https://github.com/AlexMayka/merch-shop) · [wallet-api](https://github.com/AlexMayka/wallet-api)
+#### [⚡ merch-shop](https://github.com/AlexMayka/merch-shop) · [wallet-api](https://github.com/AlexMayka/wallet-api)
+
 **Load-tested REST APIs** — virtual currency store + concurrent-safe wallet. **1000 RPS** sustained, **<50ms p99.99**, atomic transactions, Swagger docs.
 
 `Go` `Gin` `PostgreSQL` `JWT` `k6` `wrk`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🔐 Commercial Experience (Private / NDA)
+#### 🔐 Commercial Experience (NDA)
 
-Backend development for **L3/L7 traffic filtering systems** and network security tooling.
+**L3/L7 traffic filtering systems** — service configurator, client monitoring backend, CAPTCHA generation, and traffic interception utility with full TLS handshake.
 
-- **Service configurator** — FastAPI, Redis, PostgreSQL
-- **Client monitoring backend** — connection tracking, metrics, alerts
-- **CAPTCHA generation** — creation and verification for suspicious traffic
-- **Traffic interception utility (Go)** — capture, decrypt, and redirect with full TLS handshake
+`Go` `Python` `FastAPI` `Redis` `TLS/SSL` `DPI`
 
-`Go` `Python` `FastAPI` `Redis` `PostgreSQL` `TLS/SSL` `DPI`
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🧪 Current Interests
 
-- Distributed systems and data engineering
-- AI infrastructure and LLM/agent pipelines
-- IoT telemetry platforms and protocol design
-- High-performance Go services
-- Developer tooling, SDKs, and internal platforms
+`Distributed systems` `Data engineering` `AI infrastructure` `LLM/agent pipelines` `IoT telemetry` `Protocol design` `High-performance Go` `Developer tooling`
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
