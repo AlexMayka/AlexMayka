@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Building+scalable+production+systems+in+Go+%26+Python;18%2B+production+services+%C2%B7+~13M+%E2%82%BD%2Fyr+business+impact;1000%2B+RPS+backends+%C2%B7+5000%2B+docs%2Fmonth+processed;High-load+APIs+%C2%B7+AI+Pipelines+%C2%B7+IoT+Backends" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Building+scalable+production+systems+in+Go+%26+Python;18%2B+production+services+%7C+~13M+RUB%2Fyr+business+impact;1000%2B+RPS+backends+%7C+5000%2B+docs%2Fmonth+%7C+3000%2B+photos%2Fday;High-load+APIs+%7C+AI+Pipelines+%7C+IoT+Backends" alt="Typing SVG" /></a>
 
 <br>
 
@@ -103,21 +103,10 @@ My current work spans two domains: **enterprise automation** (AI pipelines, data
 
 ---
 
-### 📈 GitHub Stats
-
 <div align="center">
-<a href="https://github.com/AlexMayka">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AlexMayka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9&rank_icon=github" />
-</a>
-<a href="https://github.com/AlexMayka">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMayka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9&langs_count=8" />
-</a>
-</div>
 
-<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexMayka&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlexMayka&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=FF6B6B&area=true&area_color=667eea" />
 </div>
 
 ---
