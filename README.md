@@ -39,16 +39,16 @@ My current work spans two domains: **enterprise automation** (AI pipelines, data
 
 ### 📊 Engineering Highlights
 
-| | |
-|-|-|
-| ⚡ | Backend services handling **1000+ RPS** with zero failed transactions |
-| 📡 | Binary protocol for real-time IoT telemetry across **TCP/UDP/Serial/BLE** |
-| 📦 | Chunked file uploads up to **5GB** with circuit breakers and auto-recovery |
-| 🚀 | Bot SDKs with **zero-allocation architecture** (**29ns/message dispatch**) |
-| 🤖 | AI agent pipelines using **LangChain/LangGraph, RAG, and MCP** |
-| 🛡️ | L3/L7 traffic filtering backends — configurator, client monitoring, CAPTCHA, TLS interception |
-| 🏭 | **18+ production automation services** with **~13M RUB/year** estimated savings |
-| 📊 | **30+ BI dashboards** for operational and management analytics |
+<table>
+<tr><td>⚡</td><td>Backend services handling <b>1000+ RPS</b> with zero failed transactions</td></tr>
+<tr><td>📡</td><td>Binary protocol for real-time IoT telemetry across <b>TCP/UDP/Serial/BLE</b></td></tr>
+<tr><td>📦</td><td>Chunked file uploads up to <b>5GB</b> with circuit breakers and auto-recovery</td></tr>
+<tr><td>🚀</td><td>Bot SDKs with <b>zero-allocation architecture</b> (<b>29ns/message dispatch</b>)</td></tr>
+<tr><td>🤖</td><td>AI agent pipelines using <b>LangChain/LangGraph, RAG, and MCP</b></td></tr>
+<tr><td>🛡️</td><td>L3/L7 traffic filtering backends — configurator, client monitoring, CAPTCHA, TLS interception</td></tr>
+<tr><td>🏭</td><td><b>18+ production automation services</b> with <b>~13M RUB/year</b> estimated savings</td></tr>
+<tr><td>📊</td><td><b>30+ BI dashboards</b> for operational and management analytics</td></tr>
+</table>
 
 ---
 
