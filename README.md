@@ -6,13 +6,13 @@
 
 <br>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Alex__Mayka-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alex_Mayka)
-[![Gmail](https://img.shields.io/badge/Gmail-aleksey.mayka.w@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksey.mayka.w@gmail.com)
-[![Yandex](https://img.shields.io/badge/Yandex-alex.mayka20@yandex.ru-FF0000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alex.mayka20@yandex.ru)
+<img src="https://skillicons.dev/icons?i=go,py,c,dart,fastapi,django,postgres,mysql,mongodb,redis,docker,kubernetes,linux,nginx,git,github,githubactions,flutter,rabbitmq,grafana,prometheus,sqlite&perline=11" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=go,py,c,dart,fastapi,django,postgres,mysql,mongodb,redis,docker,kubernetes,linux,nginx,git,github,githubactions,flutter,rabbitmq,grafana,prometheus,sqlite&perline=11" />
+[![Telegram](https://img.shields.io/badge/Telegram-@Alex__Mayka-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alex_Mayka)
+[![Gmail](https://img.shields.io/badge/Gmail-aleksey.mayka.w@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksey.mayka.w@gmail.com)
+[![Yandex](https://img.shields.io/badge/Yandex-alex.mayka20@yandex.ru-FF0000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alex.mayka20@yandex.ru)
 
 </div>
 
