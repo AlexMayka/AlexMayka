@@ -17,15 +17,7 @@ I build scalable production systems in **Go** and **Python**: high-load APIs, au
 
 <br>
 
-<table>
-<tr>
-<td align="center"><h3>18+</h3><sub>production services</sub></td>
-<td align="center"><h3>~13M ₽/yr</h3><sub>business impact</sub></td>
-<td align="center"><h3>1000+ RPS</h3><sub>backend services</sub></td>
-<td align="center"><h3>5000+</h3><sub>docs/month</sub></td>
-<td align="center"><h3>3000+</h3><sub>photos/day</sub></td>
-</tr>
-</table>
+**18+ production services** · **~13M ₽/yr business impact** · **1000+ RPS backends** · **5000+ docs/month** · **3000+ photos/day**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Alex__Mayka-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Alex_Mayka)
 [![Gmail](https://img.shields.io/badge/Gmail-aleksey.mayka.w@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aleksey.mayka.w@gmail.com)
