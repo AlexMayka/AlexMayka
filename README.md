@@ -6,6 +6,8 @@
 
 I build scalable production systems in **Go** and **Python**: high-load APIs, automation platforms, AI pipelines, IoT backends, and developer tools.
 
+**18+ production services** · **~13M ₽/yr business impact** · **1000+ RPS backends** · **5000+ docs/month** · **3000+ photos/day**
+
 <br>
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
@@ -16,8 +18,6 @@ I build scalable production systems in **Go** and **Python**: high-load APIs, au
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 
 <br>
-
-**18+ production services** · **~13M ₽/yr business impact** · **1000+ RPS backends** · **5000+ docs/month** · **3000+ photos/day**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Alex__Mayka-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Alex_Mayka)
 [![Gmail](https://img.shields.io/badge/Gmail-aleksey.mayka.w@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aleksey.mayka.w@gmail.com)
