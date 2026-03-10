@@ -10,6 +10,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-aleksey.mayka.w@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksey.mayka.w@gmail.com)
 [![Yandex](https://img.shields.io/badge/Yandex-alex.mayka20@yandex.ru-FF0000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alex.mayka20@yandex.ru)
 
+<br>
+
+<img src="https://skillicons.dev/icons?i=go,py,c,dart,fastapi,django,postgres,mysql,mongodb,redis,docker,kubernetes,linux,nginx,git,github,githubactions,flutter,rabbitmq,grafana,prometheus&perline=11" />
+
 </div>
 
 ---
@@ -70,12 +74,6 @@ My current work spans two domains: **enterprise automation** (AI pipelines, data
 ---
 
 ### 🛠 Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=go,py,c,dart,fastapi,django,postgres,mysql,mongodb,redis,docker,kubernetes,linux,nginx,git,github,githubactions,flutter,rabbitmq,grafana,prometheus&perline=7" />
-</div>
-
-<br>
 
 <details>
 <summary><b>📋 Detailed breakdown</b></summary>
