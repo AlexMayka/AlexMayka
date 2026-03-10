@@ -26,9 +26,11 @@ My current work spans two domains: **enterprise automation** (AI pipelines, data
 
 ---
 
-### 🚀 What I Build
+<div align="center">
+<h3>🚀 What I Build</h3>
+</div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 <br>
