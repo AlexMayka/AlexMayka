@@ -26,44 +26,14 @@ My current work spans two domains: **enterprise automation** (AI pipelines, data
 
 ---
 
-<div align="center">
-<h3>🚀 What I Build</h3>
-</div>
+<h3 align="center">🚀 What I Build</h3>
 
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-<br>
-<b>⚡ Backend & Platform</b>
-<br><br>
-High-load REST APIs (<b>1000+ RPS</b>)<br>
-Multi-tenant RBAC systems<br>
-Developer SDKs & internal tooling<br>
-Observability & deployment pipelines
-<br><br>
-</td>
-<td width="33%" align="center" valign="top">
-<br>
-<b>🤖 Automation & AI</b>
-<br><br>
-Document processing & analytics<br>
-LLM pipelines, RAG, transcription<br>
-ETL, API integrations, BI delivery<br>
-Scraping & geocoding services
-<br><br>
-</td>
-<td width="33%" align="center" valign="top">
-<br>
-<b>📡 IoT & Embedded</b>
-<br><br>
-ESP32 firmware & telemetry<br>
-Binary protocols (TCP/UDP/BLE)<br>
-Real-time sensor streaming<br>
-Device management systems
-<br><br>
-</td>
-</tr>
-</table>
+| ⚡ **Backend & Platform** | 🤖 **Automation & AI** | 📡 **IoT & Embedded** |
+|:---:|:---:|:---:|
+| High-load REST APIs (**1000+ RPS**) | Document processing & analytics | ESP32 firmware & telemetry |
+| Multi-tenant RBAC systems | LLM pipelines, RAG, transcription | Binary protocols (TCP/UDP/BLE) |
+| Developer SDKs & internal tooling | ETL, API integrations, BI delivery | Real-time sensor streaming |
+| Observability & deployment pipelines | Scraping & geocoding services | Device management systems |
 
 ---
 
