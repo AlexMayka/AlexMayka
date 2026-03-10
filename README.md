@@ -103,14 +103,6 @@ My current work spans two domains: **enterprise automation** (AI pipelines, data
 
 ---
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexMayka&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### 🌟 Featured Projects
 
 #### [automation-monorepo](https://github.com/AlexMayka/automation-monorepo)
