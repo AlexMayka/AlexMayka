@@ -1,33 +1,14 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Alex%20Mayka&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Automation%20Architect%20%C2%B7%20Senior%20Backend%20Engineer%20%C2%B7%20Systems%20Engineer&descAlignY=55&descSize=18"/>
+
 <div align="center">
 
-# Hey, I'm Alex Mayka 👋
-
-**Automation Architect · Senior Backend Engineer · Systems Engineer**
-
-I build scalable production systems in **Go** and **Python**: high-load APIs, automation platforms, AI pipelines, IoT backends, and developer tools.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Building+scalable+production+systems+in+Go+%26+Python;18%2B+production+services+%C2%B7+~13M+%E2%82%BD%2Fyr+business+impact;1000%2B+RPS+backends+%C2%B7+5000%2B+docs%2Fmonth+processed;High-load+APIs+%C2%B7+AI+Pipelines+%C2%B7+IoT+Backends" alt="Typing SVG" /></a>
 
 <br>
 
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-
-<br>
-
-[![](https://img.shields.io/badge/production_services-18%2B-FF6B6B?style=for-the-badge)](https://github.com/AlexMayka/automation-monorepo)
-[![](https://img.shields.io/badge/business_impact-~13M_%E2%82%BD%2Fyr-4ECDC4?style=for-the-badge)](https://github.com/AlexMayka/automation-monorepo)
-[![](https://img.shields.io/badge/backend_load-1000%2B_RPS-45B7D1?style=for-the-badge)](https://github.com/AlexMayka/merch-shop)
-[![](https://img.shields.io/badge/docs_processed-5000%2B%2Fmo-96CEB4?style=for-the-badge)](https://github.com/AlexMayka/automation-monorepo)
-[![](https://img.shields.io/badge/photos_processed-3000%2B%2Fday-F7DC6F?style=for-the-badge)](https://github.com/AlexMayka/automation-monorepo)
-
-<br>
-
-[![Telegram](https://img.shields.io/badge/Telegram-@Alex__Mayka-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Alex_Mayka)
-[![Gmail](https://img.shields.io/badge/Gmail-aleksey.mayka.w@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aleksey.mayka.w@gmail.com)
-[![Yandex](https://img.shields.io/badge/Yandex-alex.mayka20@yandex.ru-FF0000?style=flat-square&logo=maildotru&logoColor=white)](mailto:alex.mayka20@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@Alex__Mayka-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alex_Mayka)
+[![Gmail](https://img.shields.io/badge/Gmail-aleksey.mayka.w@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksey.mayka.w@gmail.com)
+[![Yandex](https://img.shields.io/badge/Yandex-alex.mayka20@yandex.ru-FF0000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alex.mayka20@yandex.ru)
 
 </div>
 
@@ -90,6 +71,17 @@ My current work spans two domains: **enterprise automation** (AI pipelines, data
 
 ### 🛠 Tech Stack
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=go,py,c,dart,fastapi,django,postgres,mysql,mongodb,redis,docker,kubernetes,linux,nginx,git,github,githubactions,flutter,rabbitmq,grafana,prometheus&perline=7" />
+</div>
+
+<br>
+
+<details>
+<summary><b>📋 Detailed breakdown</b></summary>
+
+<br>
+
 <table>
 <tr><td><b>Languages</b></td><td>Go · Python · C · Dart · SQL</td></tr>
 <tr><td><b>Backend</b></td><td>Gin · net/http · FastAPI · Django · SQLAlchemy · Pydantic</td></tr>
@@ -106,6 +98,27 @@ My current work spans two domains: **enterprise automation** (AI pipelines, data
 <tr><td><b>RPA</b></td><td>PIX · Sherpa · Primo</td></tr>
 <tr><td><b>Testing</b></td><td>k6 · wrk · Testify · pytest · unittest</td></tr>
 </table>
+
+</details>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+<a href="https://github.com/AlexMayka">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AlexMayka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9&rank_icon=github" />
+</a>
+<a href="https://github.com/AlexMayka">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMayka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9&langs_count=8" />
+</a>
+</div>
+
+<br>
+
+<div align="center">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlexMayka&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=FF6B6B&area=true&area_color=667eea" />
+</div>
 
 ---
 
@@ -167,10 +180,4 @@ Backend development for **L3/L7 traffic filtering systems** and network security
 - High-performance Go services
 - Developer tooling, SDKs, and internal platforms
 
----
-
-<div align="center">
-
-📫 **Open to collaboration** — feel free to explore my repos or reach out
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
