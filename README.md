@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Building+scalable+production+systems+in+Go+%26+Python;18%2B+production+services+%7C+~13M+RUB%2Fyr+business+impact;1000%2B+RPS+backends+%7C+5000%2B+docs%2Fmonth+%7C+3000%2B+photos%2Fday;High-load+APIs+%7C+AI+Pipelines+%7C+IoT+Backends" alt="Typing SVG" /></a>
 
 <br>
