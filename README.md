@@ -22,6 +22,9 @@ I build scalable production systems in **Go** and **Python**: high-load APIs, au
 [![](https://img.shields.io/badge/backend_load-1000%2B_RPS-45B7D1?style=for-the-badge)](https://github.com/AlexMayka/merch-shop)
 [![](https://img.shields.io/badge/docs_processed-5000%2B%2Fmo-96CEB4?style=for-the-badge)](https://github.com/AlexMayka/automation-monorepo)
 [![](https://img.shields.io/badge/photos_processed-3000%2B%2Fday-F7DC6F?style=for-the-badge)](https://github.com/AlexMayka/automation-monorepo)
+
+<br>
+
 [![Telegram](https://img.shields.io/badge/Telegram-@Alex__Mayka-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Alex_Mayka)
 [![Gmail](https://img.shields.io/badge/Gmail-aleksey.mayka.w@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aleksey.mayka.w@gmail.com)
 [![Yandex](https://img.shields.io/badge/Yandex-alex.mayka20@yandex.ru-FF0000?style=flat-square&logo=maildotru&logoColor=white)](mailto:alex.mayka20@yandex.ru)
