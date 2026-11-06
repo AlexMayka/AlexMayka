@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="392" viewBox="0 0 1120 392" role="img" aria-labelledby="title description">
+  <title id="title">Alex Mayka · Engineering portfolio</title>
+  <desc id="description">An ivory nameplate with a line drawing of the three layers of a motion sensor.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f6f3e9"/>
+      <stop offset="1" stop-color="#eeece1"/>
+    </linearGradient>
+    <linearGradient id="top-plate" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#e5e9d9"/>
+      <stop offset="1" stop-color="#cbd6bd"/>
+    </linearGradient>
+  </defs>
+
+  <rect x=".5" y=".5" width="1119" height="391" rx="14" fill="url(#paper)" stroke="#c9cbbd"/>
+
+  <g fill="#52675b" font-family="Arial, Helvetica, sans-serif">
+    <text x="65" y="88" font-size="18" font-weight="700" letter-spacing="3">ENGINEERING PORTFOLIO</text>
+    <path d="M66 112h52" stroke="#52675b" stroke-width="1.5"/>
+    <text x="65" y="275" font-size="28" letter-spacing=".2">Backend &amp; systems engineering</text>
+  </g>
+  <text x="60" y="222" fill="#182321" font-family="Georgia" font-size="107" letter-spacing="-6">Alex Mayka</text>
+
+  <g fill="none" stroke="#788a73" stroke-width="1.2" stroke-dasharray="3 5">
+    <path d="M820 69v100m160-24v100m-105-38v100m-160-176v100"/>
+  </g>
+
+  <path d="m715 219 105-62 160 76v10l-105 62-160-76Z" fill="#e0e5d7" stroke="#778976" stroke-width="1.6"/>
+  <path d="m715 219 160 76 105-62m-105 62v10" fill="none" stroke="#778976" stroke-width="1.6"/>
+  <path d="m715 177 105-62 160 76v9l-105 62-160-76Z" fill="#d4deca" stroke="#6d826f" stroke-width="1.7"/>
+  <path d="m715 177 160 76 105-62m-105 62v9" fill="none" stroke="#6d826f" stroke-width="1.7"/>
+  <g transform="matrix(.8 .38 -.8 .472 820 115)" fill="none" stroke="#748974" stroke-width="1.8">
+    <path d="M12 12h176v108H12Zm0 28h176M33 12v108m134-108v108"/>
+  </g>
+
+  <path d="m715 131 105-62 160 76v9l-105 62-160-76Z" fill="#bccbb3" stroke="#526c59" stroke-width="1.8"/>
+  <path d="m715 131 160 76 105-62m-105 62v9" fill="none" stroke="#526c59" stroke-width="1.8"/>
+  <g transform="matrix(.8 .38 -.8 .472 820 69)">
+    <rect width="200" height="131" fill="url(#top-plate)" stroke="#526c59" stroke-width="2.2"/>
+    <g fill="none" stroke="#6a8169" stroke-width="1.7">
+      <path d="M20 45h32l19 12m-51 10h51m-51 22h32l19-13m56-20h22l12-11h20m-54 22h54m-54 11h22l12 11h20M29 27h42m56 76h42"/>
+      <circle cx="12" cy="12" r="3.5"/>
+      <circle cx="188" cy="12" r="3.5"/>
+      <circle cx="12" cy="119" r="3.5"/>
+      <circle cx="188" cy="119" r="3.5"/>
+    </g>
+    <rect x="71" y="43" width="56" height="46" rx="2" fill="#314f40"/>
+    <path d="M80 67h9l5-10 8 18 5-8h11" fill="none" stroke="#dbeab3" stroke-width="2.5" stroke-linejoin="round"/>
+  </g>
+
+  <path d="M901 319h79" fill="none" stroke="#8b9b87" stroke-width="1.1"/>
+  <text x="980" y="346" text-anchor="end" fill="#52675b" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1.8">FIG. 01 · KINETICA</text>
+</svg>
