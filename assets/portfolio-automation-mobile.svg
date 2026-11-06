@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="168" viewBox="0 0 420 168" role="img" aria-labelledby="title description">
+  <title id="title">03 · Automation</title>
+  <desc id="description">Document workflows that send email attachments to 1C and track their processing status.</desc>
+  <path fill="#f1eee5" d="M0 0h420v168H0z"/>
+  <path d="M24 167.5h372" fill="none" stroke="#c3cbbd"/>
+
+  <g fill="#52675b" font-family="Arial, Helvetica, sans-serif">
+    <text x="25" y="36" font-size="15" font-weight="700" letter-spacing="1">03</text>
+    <text x="59" y="36" font-size="13" font-weight="700" letter-spacing="1.5">DOCUMENT WORKFLOWS</text>
+    <text x="25" y="119" font-size="20">Email attachments into 1C,</text>
+    <text x="25" y="145" font-size="20">with processing and status tracking.</text>
+  </g>
+  <text x="23" y="84" fill="#182321" font-family="Georgia, Times New Roman, serif" font-size="44" letter-spacing="-1.6">Automation</text>
+
+  <g transform="translate(286 77)" fill="none" stroke="#52675b" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0-10h27v20H0z" fill="#e2e8db"/>
+    <path d="m0-10 13.5 11L27-10M0 10l8-9m19 9-8-9"/>
+    <path d="M30 0h11m-3-3 3 3-3 3m31-3h12m-3-3 3 3-3 3"/>
+    <path d="M45-15h14l8 8v22H45z" fill="#e2e8db"/>
+    <path d="M59-15v8h8M50 1h12M50 6h9"/>
+    <rect x="85" y="-11" width="23" height="22" rx="2" fill="#cdd9bf"/>
+  </g>
+  <text x="382.5" y="80.5" fill="#52675b" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="middle">1C</text>
+  <g fill="none" stroke="#52675b" transform="translate(381 30)">
+    <circle r="14" stroke="#a6b4a5"/>
+    <path d="M-4 4 4-4M-2-4H4V2" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

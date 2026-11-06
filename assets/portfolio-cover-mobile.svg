@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="395" viewBox="0 0 420 395" role="img" aria-labelledby="title description">
+  <title id="title">Alex Mayka · Engineering portfolio</title>
+  <desc id="description">Backend and systems engineering. Go and Python services for L7 traffic protection and business automation. An exploded illustration shows three layers of the Kinetica motion sensor.</desc>
+  <defs>
+    <linearGradient id="top-plate" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#e5e9d9"/>
+      <stop offset="1" stop-color="#cbd6bd"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M10 0h400a10 10 0 0 1 10 10v385H0V10A10 10 0 0 1 10 0Z" fill="#f1eee5"/>
+
+  <g fill="#52675b" font-family="Arial, Helvetica, sans-serif">
+    <text x="24" y="35" font-size="13" font-weight="700" letter-spacing="1.6">ENGINEERING PORTFOLIO</text>
+    <path d="M24 50h31" stroke="#52675b"/>
+    <text x="24" y="135" font-size="23">Backend &amp; systems engineering</text>
+    <text x="24" y="165" font-size="18.5">Go and Python services for L7 traffic</text>
+    <text x="24" y="190" font-size="18.5">protection and business automation.</text>
+  </g>
+  <text x="22" y="105" fill="#182321" font-family="Georgia" font-size="65" letter-spacing="-3.5">Alex Mayka</text>
+
+  <g transform="translate(-273 166) scale(.57)">
+    <g fill="none" stroke="#788a73" stroke-width="1.2" stroke-dasharray="3 5">
+      <path d="M820 69v100m160-24v100m-105-38v100m-160-176v100"/>
+    </g>
+
+    <path d="m715 219 105-62 160 76v10l-105 62-160-76Z" fill="#e0e5d7" stroke="#778976" stroke-width="1.6"/>
+    <path d="m715 219 160 76 105-62m-105 62v10" fill="none" stroke="#778976" stroke-width="1.6"/>
+    <path d="m715 177 105-62 160 76v9l-105 62-160-76Z" fill="#d4deca" stroke="#6d826f" stroke-width="1.7"/>
+    <path d="m715 177 160 76 105-62m-105 62v9" fill="none" stroke="#6d826f" stroke-width="1.7"/>
+    <g transform="matrix(.8 .38 -.8 .472 820 115)" fill="none" stroke="#748974" stroke-width="1.8">
+      <path d="M12 12h176v108H12Zm0 28h176M33 12v108m134-108v108"/>
+    </g>
+
+    <path d="m715 131 105-62 160 76v9l-105 62-160-76Z" fill="#bccbb3" stroke="#526c59" stroke-width="1.8"/>
+    <path d="m715 131 160 76 105-62m-105 62v9" fill="none" stroke="#526c59" stroke-width="1.8"/>
+    <g transform="matrix(.8 .38 -.8 .472 820 69)">
+      <rect width="200" height="131" fill="url(#top-plate)" stroke="#526c59" stroke-width="2.2"/>
+      <g fill="none" stroke="#6a8169" stroke-width="1.7">
+        <path d="M20 45h32l19 12m-51 10h51m-51 22h32l19-13m56-20h22l12-11h20m-54 22h54m-54 11h22l12 11h20M29 27h42m56 76h42"/>
+        <circle cx="12" cy="12" r="3.5"/>
+        <circle cx="188" cy="12" r="3.5"/>
+        <circle cx="12" cy="119" r="3.5"/>
+        <circle cx="188" cy="119" r="3.5"/>
+      </g>
+      <rect x="71" y="43" width="56" height="46" rx="2" fill="#314f40"/>
+      <path d="M80 67h9l5-10 8 18 5-8h11" fill="none" stroke="#dbeab3" stroke-width="2.5" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <path d="M252 341h34" fill="none" stroke="#8b9b87"/>
+  <text x="286" y="357" text-anchor="end" fill="#52675b" font-family="Arial, Helvetica, sans-serif" font-size="12.5" letter-spacing="1.1">FIG. 01 · KINETICA</text>
+
+  <path d="M24 367.5h372" stroke="#c3cbbd"/>
+  <text x="24" y="387" fill="#52675b" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">SELECTED WORK</text>
+</svg>
