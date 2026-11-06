@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="208" viewBox="0 0 420 208" role="img" aria-labelledby="title desc">
+  <title id="title">02 · Kinetica Protocol</title>
+  <desc id="desc">A Go library for binary sensor frames with CRC checks and TCP, UDP, serial and BLE adapters.</desc>
+  <path fill="#f1eee5" d="M0 0h420v208H0z"/>
+  <path d="M24 207.5h372" fill="none" stroke="#c3cbbd"/>
+
+  <g fill="#52675b" font-family="Arial, Helvetica, sans-serif">
+    <text x="25" y="56" font-size="15" font-weight="700" letter-spacing="1">02</text>
+    <text x="59" y="56" font-size="13" font-weight="700" letter-spacing="1.5">GO PROTOCOL</text>
+    <text x="25" y="139" font-size="20">Binary sensor frames and CRC checks.</text>
+    <text x="25" y="165" font-size="20">TCP, UDP, serial and BLE.</text>
+  </g>
+  <text x="23" y="104" fill="#182321" font-family="Georgia, Times New Roman, serif" font-size="44" letter-spacing="-1.6">Kinetica Protocol</text>
+
+  <g transform="translate(286 158)" fill="none" stroke="#52675b" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 0h6c5 0 8-11 13-11s6 21 11 21 7-15 12-15 5 5 10 5h5" stroke-width="1.5"/>
+    <rect x="57" y="-12" width="52" height="24" rx="2" fill="#e2e8db"/>
+    <path d="M74-12v24m17-24v24" stroke="#a6b4a5"/>
+  </g>
+  <g fill="none" stroke="#52675b" transform="translate(381 50)">
+    <circle r="14" stroke="#a6b4a5"/>
+    <path d="M-4 4 4-4M-2-4H4V2" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

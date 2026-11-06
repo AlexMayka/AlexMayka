@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230" role="img" aria-labelledby="title description">
+  <title id="title">Logging SDK</title>
+  <desc id="description">Python client for synchronous and asynchronous logging and tracking run status and duration.</desc>
+  <path d="M0 0h480v230H0z" fill="#f1eee5"/>
+  <rect x="12.5" y="13.5" width="419" height="203" rx="8" fill="#e9ede0" stroke="#c3cbbd"/>
+  <text x="34" y="48" fill="#52675b" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">PYTHON / OBSERVABILITY</text>
+  <text x="33" y="91" fill="#182321" font-family="Georgia, Times New Roman, serif" font-size="36" letter-spacing="-1.2">Logging SDK</text>
+  <g fill="#52675b" font-family="Arial, Helvetica, sans-serif" font-size="19">
+    <text x="34" y="124">Sync and async logging.</text>
+    <text x="34" y="150">Tracks run duration and status.</text>
+  </g>
+  <g transform="translate(401 43)" fill="none" stroke="#49614f" stroke-linecap="round" stroke-linejoin="round">
+    <circle r="13" stroke="#b7c4af"/>
+    <path d="M-4 4 4-4M-2-4H4V2" stroke-width="1.4"/>
+  </g>
+  <g transform="translate(313 166)" fill="none" stroke="#49614f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+    <rect width="43" height="28" rx="3" fill="#f1eee5"/>
+    <path d="M7 7h2m-2 7h2m-2 7h2m6-14h20m-20 7h20m-20 7h14m14-7h18"/>
+    <circle cx="77" cy="14" r="14" fill="#dce6d2"/>
+    <path d="M77 0v-6m-4 0h8m6 9 4-4M77 8v7l4 3"/>
+  </g>
+</svg>

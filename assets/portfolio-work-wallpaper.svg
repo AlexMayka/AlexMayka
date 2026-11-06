@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="236" viewBox="0 0 960 236" role="img" aria-labelledby="title description">
+  <title id="title">03 · Live Wallpaper for macOS</title>
+  <desc id="description">Video and photo wallpapers with separate settings for every display.</desc>
+  <path fill="#f1eee5" d="M0 0h960v236H0z"/>
+  <path d="M48 235.5h864M92 61v112" fill="none" stroke="#c3cbbd"/>
+
+  <g fill="#52675b" font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="75" font-size="17" font-weight="700" letter-spacing="1">03</text>
+    <text x="119" y="74" font-size="15" font-weight="700" letter-spacing="2.5">NATIVE MACOS</text>
+    <text x="119" y="152" font-size="23">Video and photo wallpapers.</text>
+    <text x="119" y="180" font-size="23">Separate settings for every display.</text>
+  </g>
+  <text x="116" y="120" fill="#182321" font-family="Georgia, Times New Roman, serif" font-size="47" letter-spacing="-1.8">Live Wallpaper for macOS</text>
+
+  <g transform="translate(691 96) scale(1.53)" fill="none" stroke="#52675b" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="53" height="29" rx="3" fill="#dce6d4"/>
+    <path d="M23 8v13l11-6.5Z" fill="#49614f"/>
+    <path d="M26.5 29v6m-10 0h20"/>
+    <rect x="63" y="4" width="43" height="25" rx="3" fill="#e2e8db"/>
+    <path d="m68 23 7-8 5 5 7-7 12 10"/>
+    <circle cx="95" cy="11" r="1.5" fill="#49614f"/>
+    <path d="M84.5 29v6m-8 0h16"/>
+  </g>
+  <g fill="none" stroke="#52675b" transform="translate(893 69)">
+    <circle r="18" stroke="#a6b4a5"/>
+    <path d="M-5 5 5-5M-3-5H5V3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

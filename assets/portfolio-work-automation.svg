@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="216" viewBox="0 0 960 216" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="236" viewBox="0 0 960 236" role="img" aria-labelledby="title description">
   <title id="title">01 · Automation Monorepo</title>
   <desc id="description">Go and Python projects for reporting, operations and AI, with reusable SDKs, logging and GPU tooling.</desc>
-  <path fill="#f1eee5" d="M0 0h960v216H0z"/>
-  <path d="M48 215.5h864M92 51v112" fill="none" stroke="#c3cbbd"/>
+  <path fill="#f1eee5" d="M0 0h960v236H0z"/>
+  <path d="M48 235.5h864M92 61v112" fill="none" stroke="#c3cbbd"/>
 
-  <g transform="translate(0 16)">
+  <g transform="translate(0 26)">
     <g fill="#52675b" font-family="Arial, Helvetica, sans-serif">
       <text x="48" y="49" font-size="17" font-weight="700" letter-spacing="1">01</text>
       <text x="119" y="48" font-size="15" font-weight="700" letter-spacing="2.5">BUSINESS SYSTEMS</text>
