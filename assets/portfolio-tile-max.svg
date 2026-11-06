@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230" role="img" aria-labelledby="title desc">
+  <title id="title">go-max-sdk</title>
+  <desc id="desc">Go SDK for MAX bots. Compiles routes by conversation state and event type.</desc>
+  <path fill="#f1eee5" d="M0 0h480v230H0z"/>
+  <rect x="12" y="13" width="420" height="204" rx="8" fill="#e9ede0" stroke="#c3cbbd"/>
+  <g fill="#52675b" font-family="Arial, Helvetica, sans-serif">
+    <text x="34" y="47" font-size="13" font-weight="700" letter-spacing="1.6">GO SDK</text>
+    <text x="34" y="124" font-size="19">Go SDK for MAX bots.</text>
+    <text x="34" y="150" font-size="19">Routes by state and event type.</text>
+  </g>
+  <text x="33" y="89" fill="#182321" font-family="Georgia, Times New Roman, serif" font-size="35" letter-spacing="-.9">go-max-sdk</text>
+  <g fill="none" stroke="#49614f" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M39 188h23m0 0 20-10m-20 10 20 10m15-10h22m-4-4 4 4-4 4" stroke-width="1.35"/>
+    <circle cx="39" cy="188" r="4" fill="#e9ede0"/>
+    <circle cx="82" cy="178" r="3.5" fill="#e9ede0"/>
+    <circle cx="82" cy="198" r="3.5" fill="#e9ede0"/>
+    <rect x="130" y="174" width="80" height="28" rx="3" fill="#dfe6d5" stroke="#a6b4a5"/>
+    <path d="M130 188h80m-54-14v28m27-28v28" stroke="#a6b4a5"/>
+    <path d="M137 181h12m14 14h13m14-14h13" stroke-width="1.3"/>
+    <circle cx="407" cy="42" r="13" stroke="#a6b4a5"/>
+    <path d="m403 46 8-8m-5 0h5v5" stroke-width="1.3"/>
+  </g>
+</svg>
